@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class GrandeDeposito {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        @SuppressWarnings("resource")
+		Scanner scanner = new Scanner(System.in);
 
         double valor = scanner.nextDouble();
 
@@ -13,7 +14,7 @@ public class GrandeDeposito {
           System.out.println("Deposito realizado com sucesso!");
           System.out.printf("Saldo atual: R$ %.2f \n", valor);
         } else if (valor < 0) {
-            //TODO: Imprimir a mensagem de valor inválido.
+            //TODO: Imprimir a mensagem de valor invï¿½lido.
         	System.out.println("Valor invalido! Digite um valor maior que zero.");
         } else {
              //TODO: Imprimir a mensagem de encerrar o programa.

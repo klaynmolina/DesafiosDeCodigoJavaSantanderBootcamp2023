@@ -7,7 +7,8 @@ public class HerancaBancaria {
 
   public static void main(String[] args) {
     // Lendo os dados de Entrada:
-    Scanner scanner = new Scanner(System.in);
+    @SuppressWarnings("resource")
+	Scanner scanner = new Scanner(System.in);
     String titular = scanner.next();
     int numeroConta = scanner.nextInt();
     double saldo = scanner.nextDouble();
@@ -50,7 +51,7 @@ class ContaPoupanca extends ContaBancaria2 {
 
   public void exibirInformacoes() {
     super.exibirInformacoes();
-    //TODO: Complementar as informações com a taxa de juros.
+    //TODO: Complementar as informaï¿½ï¿½es com a taxa de juros.
     System.out.println("Taxa de juros: " + taxaJuros + "%");
   }
 }

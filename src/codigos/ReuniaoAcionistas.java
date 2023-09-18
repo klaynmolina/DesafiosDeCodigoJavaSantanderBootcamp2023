@@ -12,7 +12,8 @@ public class ReuniaoAcionistas {
 
   public static void main(String[] args) throws ParseException {
     // L� os dados de Entrada conforme descrito neste Desafio.
-    Scanner scanner = new Scanner(System.in);
+    @SuppressWarnings("resource")
+	Scanner scanner = new Scanner(System.in);
     String dataInicial = scanner.nextLine();
     String dataFinal = scanner.nextLine();
 

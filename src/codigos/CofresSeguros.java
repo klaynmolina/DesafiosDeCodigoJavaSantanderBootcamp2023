@@ -41,12 +41,13 @@ class CofreFisico extends Cofre {
 
 public class CofresSeguros {
 	public static void main(String[] args) {
-		// Lê o tipo de cofre (primeira linha da entrada)
+		// Lï¿½ o tipo de cofre (primeira linha da entrada)
+		@SuppressWarnings("resource")
 		Scanner scanner = new Scanner(System.in);
 		String tipoCofre = scanner.nextLine();
 		
 
-		// TODO: Implemente a condição necessário para a verificação dos cofres seguros:
+		// TODO: Implemente a condiï¿½ï¿½o necessï¿½rio para a verificaï¿½ï¿½o dos cofres seguros:
 		if (tipoCofre.equalsIgnoreCase("digital")) {			
 			System.out.println("Informe a senha: ");
 			int senha = scanner.nextInt();

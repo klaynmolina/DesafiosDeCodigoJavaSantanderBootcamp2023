@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class UltimaTransacao {
     
   public static void main(String[] args) {
-    Scanner scanner = new Scanner(System.in);
+    @SuppressWarnings("resource")
+	Scanner scanner = new Scanner(System.in);
 
     String entrada = scanner.nextLine();
     String[] partes = entrada.split(",");
