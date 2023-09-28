@@ -4,8 +4,11 @@ A classe `HerancaBancaria` é um programa Java que demonstra um exemplo de heran
 - Cria uma instância da classe `ContaPoupanca` com os dados lidos.
 - Imprime as informações da conta poupança, incluindo nome do titular, número da conta, saldo e taxa de juros.
 
-A classe `ContaBancaria2` é a classe base para contas bancárias e inclui atributos comuns, como número, titular e saldo. Ela também possui um método `exibirInformacoes()` para imprimir essas informações.
+A classe `ContaBancaria2` é a classe base para contas bancárias e inclui atributos comuns, como número, titular e saldo. 
+Ela também possui um método `exibirInformacoes()` para imprimir essas informações.
 
-A classe `ContaPoupanca` herda da classe `ContaBancaria2` e adiciona o atributo `taxaJuros` para representar a taxa de juros associada a uma conta poupança. Além disso, ela sobrescreve o método `exibirInformacoes()` para incluir informações adicionais, como a taxa de juros.
+A classe `ContaPoupanca` herda da classe `ContaBancaria2` e adiciona o atributo `taxaJuros` para representar a taxa de juros associada a uma conta poupança. 
+Além disso, ela sobrescreve o método `exibirInformacoes()` para incluir informações adicionais, como a taxa de juros.
 
-Em resumo, este programa demonstra o uso de herança em Java ao criar uma classe especializada (`ContaPoupanca`) que herda atributos e métodos da classe base (`ContaBancaria2`) e adiciona funcionalidade específica para uma conta poupança.
+Em resumo, este programa demonstra o uso de herança em Java ao criar uma classe especializada (`ContaPoupanca`) que herda atributos 
+e métodos da classe base (`ContaBancaria2`) e adiciona funcionalidade específica para uma conta poupança.
