@@ -1,4 +1,5 @@
-A classe `EquilibrandoSaldo` é um programa Java que calcula e exibe o saldo atualizado em uma conta bancária com base em operações de depósito e retirada. O programa realiza as seguintes ações:
+A classe `EquilibrandoSaldo` é um programa Java que calcula e exibe o saldo atualizado em uma conta bancária com base em operações de depósito e retirada. 
+O programa realiza as seguintes ações:
 
 - Lê o saldo atual da conta, o valor a ser depositado e o valor a ser retirado da entrada padrão.
 - Calcula o saldo atualizado subtraindo o valor de retirada do saldo atual e adicionando o valor de depósito.
