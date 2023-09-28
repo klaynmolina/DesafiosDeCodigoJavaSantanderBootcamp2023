@@ -6,9 +6,10 @@ O objetivo deste projeto é praticar e demonstrar habilidades de programação e
 
 # Descrição do Projeto
 O projeto é organizado em diferentes classes, cada uma com seu próprio propósito e conjunto de desafios específicos. 
-Abaixo, descrevo o propósito de cada classe presente neste repositório:
 
 # Detalhamento das Classes
+
+Abaixo, descrevo o propósito de cada classe presente neste repositório:
 
 1. [**AbrindoContas**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/AbrindoContas.java)
    - [Descrição](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/descricao/AbrindoContas.txt)
