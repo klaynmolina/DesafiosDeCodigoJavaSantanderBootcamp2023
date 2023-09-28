@@ -1,0 +1,10 @@
+A classe `UltimaTransacao` é um programa Java que lê uma entrada contendo informações de uma transação (data, hora, descrição e valor) e cria uma instância da classe `Transacao` com essas informações. O programa realiza as seguintes ações:
+
+- Lê a entrada da entrada padrão.
+- Divide a entrada em partes usando a vírgula como separador.
+- Cria uma instância da classe `Transacao` com os valores lidos da entrada.
+- Chama o método `imprimir()` da instância da `Transacao` para imprimir as informações da transação.
+
+A classe `Transacao` representa uma transação com os atributos data, hora, descrição e valor. Ela possui um construtor para inicializar esses atributos e um método `imprimir()` para exibir as informações da transação formatadas.
+
+Em resumo, este programa lê informações de uma transação, cria um objeto de transação e imprime essas informações no formato desejado. É útil para processar e exibir informações de transações financeiras.

@@ -1,0 +1,8 @@
+A classe `OrganizandoSeusAtivos` é um programa Java que recebe uma lista de códigos de ativos financeiros, os ordena em ordem alfabética e os imprime em ordem ordenada. O programa realiza as seguintes ações:
+
+- Lê a quantidade de ativos da entrada padrão.
+- Lê os códigos dos ativos da entrada padrão e os adiciona a um ArrayList chamado `ativos`.
+- Ordena o ArrayList `ativos` em ordem alfabética usando `Collections.sort()`.
+- Imprime os códigos dos ativos ordenados, um por linha.
+
+Em resumo, este programa serve para organizar e listar os códigos de ativos financeiros em ordem alfabética, facilitando a visualização e o gerenciamento desses ativos. É útil em contextos nos quais a ordenação dos ativos é necessária.

@@ -1,0 +1,5 @@
+A classe `AbrindoContas` tem como objetivo principal receber informações do usuário, como número da conta, nome do titular e saldo inicial, e com base nesses dados, criar uma instância da classe `ContaBancaria`. Após a criação da conta, ela exibe informações como número da conta, titular e saldo. 
+
+A classe `ContaBancaria`, por sua vez, representa uma conta bancária e armazena informações como número, titular e saldo. Ela possui métodos getters e setters para acessar e modificar essas informações.
+
+Em resumo, este código é um exemplo simples de criação e exibição de informações de contas bancárias em Java.

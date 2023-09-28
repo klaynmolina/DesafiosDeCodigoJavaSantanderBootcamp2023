@@ -1,0 +1,8 @@
+A classe `CondicionalmenteRico` é um programa Java que simula um caixa eletrônico, verificando se um saque pode ser realizado com base no saldo total disponível e no valor do saque inserido pelo usuário. O programa realiza as seguintes ações:
+
+- Lê o saldo total e o valor do saque da entrada padrão.
+- Calcula o saldo atualizado após o saque subtraindo o valor do saque do saldo total.
+- Verifica se o saldo atualizado é negativo. Se for, imprime "Saldo insuficiente. Saque não realizado!".
+- Caso contrário, imprime "Saque realizado com sucesso. Novo saldo: [novo saldo]".
+
+Em resumo, este programa serve para verificar se um saque pode ser efetuado com base no saldo disponível e, em caso afirmativo, informar o novo saldo após o saque. Caso contrário, informa que o saldo é insuficiente para o saque solicitado.

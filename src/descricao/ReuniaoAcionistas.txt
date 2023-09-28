@@ -1,0 +1,12 @@
+1.	
+A classe `ReuniaoAcionistas` é um programa Java que recebe duas datas (dataInicial e dataFinal) e usa essas datas para obter análises de desempenho de acionistas de uma empresa. O programa realiza as seguintes ações:
+
+- Lê as datas de entrada da entrada padrão.
+- Chama o método `obterAnalisesDesempenho` da classe `SistemaAcionistas` com as datas fornecidas.
+- Imprime as análises obtidas.
+
+A classe `SistemaAcionistas` é responsável por gerenciar as análises de desempenho dos acionistas. Ela possui um método `obterAnalisesDesempenho` que recebe duas datas como argumentos e retorna uma lista de análises que ocorreram dentro desse período. Essas análises são filtradas com base nas datas fornecidas.
+
+O programa simula uma base de dados de análises em uma lista e, em seguida, filtra as análises com base no período especificado. O resultado é uma lista de descrições de análises que ocorreram dentro do intervalo de datas fornecido.
+
+Em resumo, este programa permite obter análises de desempenho de acionistas em um período específico e imprimir essas análises. É útil para empresas que desejam analisar o desempenho de seus acionistas em datas específicas.

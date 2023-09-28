@@ -1,0 +1,10 @@
+1.	
+A classe `CofresSeguros` é um programa Java que simula a abertura de cofres digitais e físicos. Ele lê o tipo de cofre da entrada padrão (digital ou físico) e, com base nesse tipo, realiza as seguintes ações:
+
+- Para cofres digitais: Solicita ao usuário que insira uma senha e a confirmação da senha. Se a senha e a confirmação coincidirem, o programa imprime as informações do cofre digital e informa que o cofre foi aberto. Caso contrário, imprime que a senha está incorreta.
+
+- Para cofres físicos: Imprime simplesmente as informações do cofre físico, sem a necessidade de senha.
+
+A estrutura do programa utiliza herança e polimorfismo, com a classe abstrata `Cofre` como classe base, e as classes concretas `CofreDigital` e `CofreFisico` especializando o comportamento. 
+
+Em resumo, este programa demonstra a criação de cofres digitais e físicos e a interação com o usuário para abrir cofres digitais com base em senhas.
