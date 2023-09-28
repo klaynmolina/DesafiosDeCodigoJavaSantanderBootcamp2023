@@ -1,11 +1,10 @@
-A classe `GrandeDeposito` é um programa Java que lida com depósitos em uma conta bancária. O programa realiza as seguintes ações:
+A classe `GrandeDeposito` é um programa Java que lida com depósitos em uma conta bancária. 
+
+O programa realiza as seguintes ações:
 
 - Lê um valor da entrada padrão, que representa o valor do depósito.
-
 - Verifica se o valor é maior que zero. Se for, imprime a mensagem "Depósito realizado com sucesso!" e exibe o saldo atual formatado com duas casas decimais.
-
 - Se o valor for menor que zero, o programa imprime a mensagem "Valor inválido! Digite um valor maior que zero."
-
 - Caso o valor seja igual a zero, o programa imprime a mensagem "Encerrando o programa..."
 
 Em resumo, este programa lida com depósitos em uma conta bancária, validando se o valor é válido e exibindo mensagens apropriadas com base no resultado da validação.
