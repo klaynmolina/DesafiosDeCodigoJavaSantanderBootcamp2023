@@ -1,11 +1,13 @@
-A classe `JurosCompostos` é um programa Java que calcula o valor final de um investimento com base em juros compostos. O programa realiza as seguintes ações:
+A classe `JurosCompostos` é um programa Java que calcula o valor final de um investimento com base em juros compostos. 
+
+O programa realiza as seguintes ações:
 
 - Lê o valor inicial do investimento, a taxa de juros anual e o período de investimento (em anos) da entrada padrão.
-
 - Calcula o valor final do investimento usando a fórmula dos juros compostos: `valorFinal = valorInicial * (1 + taxaJuros)^periodo`.
-
 - Formata o valor final com duas casas decimais.
-
 - Imprime o valor final do investimento.
 
-Em resumo, este programa calcula o valor final de um investimento após um período específico usando a fórmula de juros compostos e o exibe formatado com duas casas decimais. É útil para calcular o crescimento de um investimento ao longo do tempo com base em uma taxa de juros composta.
+Em resumo, este programa calcula o valor final de um investimento após um período específico usando a fórmula de juros compostos 
+e o exibe formatado com duas casas decimais. 
+
+É útil para calcular o crescimento de um investimento ao longo do tempo com base em uma taxa de juros composta.
