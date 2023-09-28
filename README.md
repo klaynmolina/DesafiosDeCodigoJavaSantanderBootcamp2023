@@ -11,12 +11,31 @@ Abaixo, descrevo o propósito de cada classe presente neste repositório:
 # Detalhamento das Classes
 
 1. [**AbrindoContas**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/AbrindoContas.java)
+   - [Descrição](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/descricao/AbrindoContas.txt)
+     
 2. [**CofresSeguros**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/CofresSeguros.java)
-3. [**CondicionalmenteRico**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/CondicionalmenteRico.java)
-4. [**EquilibrandoSaldo**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/EquilibrandoSaldo.java)
-5. [**GrandeDeposito**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/GrandeDeposito.java)
-6. [**HerancaBancaria**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/HerancaBancaria.java)
-7. [**JurosCompostos**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/JurosCompostos.java)
-8. [**OrganizandoSeusAtivos**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/OrganizandoSeusAtivos.java)
-9. [**ReuniaoAcionistas**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/ReuniaoAcionistas.java)
-10. [**UltimaTransacao**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/UltimaTransacao.java)
+   - [Descrição](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/descricao/CofresSeguros.txt)
+   
+4. [**CondicionalmenteRico**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/CondicionalmenteRico.java)
+   - [Descrição](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/descricao/CondicionalmenteRico.txt)
+   
+6. [**EquilibrandoSaldo**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/EquilibrandoSaldo.java)
+   - [Descrição](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/descricao/EquilibrandoSaldo.txt)
+   
+8. [**GrandeDeposito**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/GrandeDeposito.java)
+    - [Descrição](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/descricao/GrandeDeposito.txt)
+   
+10. [**HerancaBancaria**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/HerancaBancaria.java)
+    - [Descrição](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/descricao/HerancaBancaria.txt)
+    
+12. [**JurosCompostos**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/JurosCompostos.java)
+    - [Descrição](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/descricao/JurosCompostos.txt)
+    
+14. [**OrganizandoSeusAtivos**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/OrganizandoSeusAtivos.java)
+    - [Descrição](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/descricao/OrganizandoSeusAtivos.txt)
+    
+16. [**ReuniaoAcionistas**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/ReuniaoAcionistas.java)
+    - [Descrição](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/descricao/ReuniaoAcionistas.txt)
+    
+18. [**UltimaTransacao**](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/codigos/UltimaTransacao.java)
+    - [Descrição](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023/blob/main/src/descricao/UltimaTransacao.txt)
